@@ -1,0 +1,13 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: Parser
+  datasource:
+    url: jdbc:postgresql://localhost:5432/database_ec
+    username: postgres
+    password: 5876
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
