@@ -1,4 +1,4 @@
-package com.e_chem.parsingprom.Productis;
+package com.e_chem.parsingprom.ProductService;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
